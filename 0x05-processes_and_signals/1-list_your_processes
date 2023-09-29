@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#idk lmao lmao
+
+ps -auxf
