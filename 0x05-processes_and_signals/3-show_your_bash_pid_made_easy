@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#idk man pls stop asking me
+
+pgrep bash -l
