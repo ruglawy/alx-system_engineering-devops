@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#IFEELLIKETUPAC
+
+pkill -f -SIGKILL 7-highlander
