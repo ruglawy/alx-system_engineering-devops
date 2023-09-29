@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#idk lmaokkk
+
+ps -aux | grep bash
